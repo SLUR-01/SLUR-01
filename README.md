@@ -1,5 +1,4 @@
 ### 👋 Hi there, I'm Kert John Pagula
-- I build digital experiences that are as functional as they are beautiful—balancing visual design, interactivity, and performance. From clean, responsive UIs to robust back-end logic, I enjoy taking projects from concept to deployment, ensuring everything just works, front to back.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KertJohnPagula) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xslurr0.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pagulakert@gmail.com) 
